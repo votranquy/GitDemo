@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 Jeremy - Hello World
-=======
 dard
->>>>>>> 4e04cfb905798804c56abcf068f7a54dd1e358d6
 Wyatt
+wade
